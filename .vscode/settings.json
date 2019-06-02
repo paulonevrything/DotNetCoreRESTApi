@@ -1,0 +1,15 @@
+{
+    "cSpell.ignoreWords": [
+        "api",
+        "cmd",
+        "connection",
+        "database",
+        "db",
+        "local",
+        "localdb",
+        "mssql",
+        "server",
+        "true",
+        "trusted"
+    ]
+}
